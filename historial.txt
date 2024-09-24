@@ -1,1 +1,1 @@
-Hola, soy Oscar y estoy realizando la tarea 9 de desarrollo de interfaces, en esta actividad estamos usando git log
+Hola, soy Oscar y estoy realizando la tarea 9 de desarrollo de interfaces, en esta actividad estamos usando git log, también emplearemos git revert
