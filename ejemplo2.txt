@@ -1,1 +1,3 @@
 El lobo (Canis lupus) es una especie de mamífero placentario del orden de los carnívoros. El naturalista Carlos Linneo, en la décima edición de su obra Systema naturæ, publicada en 1758, clasificó al perro doméstico como especie distinta (Canis familiaris). Sin embargo, en la actualidad predomina su consideración como miembro de la misma especie según la secuencia del ADN y otros estudios genéticos.2​3​ El primer registro fósil data de hace ochocientos mil años.4​ Los lobos son originarios de América del Norte y Eurasia, por donde antaño se distribuían y eran abundantes. Hoy en día habitan únicamente una muy limitada porción del que antes fue su territorio.
+
+Esto es el cambio numero 2 para ver el git diff

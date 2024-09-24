@@ -1,1 +1,3 @@
 Spotify es una plataforma de streaming de música, podcasts y videos que permite a los usuarios acceder a una extensa biblioteca de contenido multimedia de forma instantánea. Fundada en 2006, ofrece tanto un servicio gratuito con anuncios como opciones de suscripción premium sin publicidad, permitiendo la reproducción de música a demanda, la creación de playlists personalizadas, y la descarga de contenido para escuchar sin conexión. Con millones de canciones y podcasts disponibles, Spotify es una de las plataformas líderes a nivel mundial en la industria del streaming musical.
+
+Esto es el cambio numero 1 para ver el git diff
