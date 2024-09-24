@@ -1,1 +1,5 @@
-Hola, soy Oscar y estoy realizando la tarea 9 de desarrollo de interfaces, en esta actividad estamos usando git log, también emplearemos git revert
+<<<<<<< Updated upstream
+Hola, soy Oscar y estoy realizando la tarea 9 de desarrollo de interfaces, en esta actividad estamos usando git log, también emplearemos git revert y modificaremos el texto con diferentes ramas
+=======
+Hola, soy Oscar y estoy realizando la tarea 9 de desarrollo de interfaces, en esta actividad estamos usando git log, también emplearemos git revert o git reset (según nos lo indiquen)
+>>>>>>> Stashed changes
